@@ -1,0 +1,30 @@
+# Compiled code
+out/
+target/
+build/
+*.class
+
+# Log files
+*.log
+
+# IDE files (IntelliJ)
+# Ignore the entire folder, then make exceptions if needed
+.idea/
+
+# Optional: Allow specific useful .idea files if sharing settings
+# !.idea/misc.xml
+# !.idea/compiler.xml
+# !.idea/jarRepositories.xml
+# !.idea/encodings.xml
+# !.idea/runConfigurations/
+
+# Module files (often ignored, especially if using Maven/Gradle)
+*.iml
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Sensitive information (add specific files if needed)
+# *.env
+# secrets.txt
